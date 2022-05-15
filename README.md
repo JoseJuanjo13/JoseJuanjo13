@@ -1,7 +1,7 @@
 ### Hola 👋
 ------------
 
-Mi nombre es Juan Jose Ortiz y soy de Colombia. 
+Mi nombre es Juan Jose Hincapie y soy de Colombia. 
 
 - Actualmente soy estudiante de Ingenieria de Sistemas
 - Tengo un Tecnologo en analisis y desarrollo de sistemas de informacion
